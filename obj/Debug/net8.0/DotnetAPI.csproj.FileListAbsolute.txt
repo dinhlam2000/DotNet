@@ -72,3 +72,4 @@
 /Users/lamofgod/Documents/C#Learning/dotnet-course-code/DotnetAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /Users/lamofgod/Documents/C#Learning/dotnet-course-code/DotnetAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/lamofgod/Documents/C#Learning/dotnet-course-code/DotnetAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/lamofgod/Documents/C#Learning/dotnet-course-code/DotnetAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
